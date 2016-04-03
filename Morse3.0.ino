@@ -2,11 +2,18 @@
  * 
  * Program: Morse to Text
  * Authors: Vinh-Nghi Nguyen, Andrew Trinh, Tristan Vuong
+ * 
+ * About Us: We developed this project keeping in mind 
+ * that it should be easily reproduceable. As members 
+ * of BSA Troop 680, we felt that this would be a fun 
+ * project for leaders and merit badge counselors to 
+ * introduce their members to programming with an Arduino.
+ * 
  * Description: This program is a simple morse to 
  * text converter for the arduino that uses button 
  * input and light input.
  * 
- * List of Parts
+ * ------List of Parts------
  * Arduino Uno
  * Base Shield v2.0 by Seeed Studio
  * GROVE Button v1.1
